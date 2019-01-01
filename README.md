@@ -1,2 +1,2 @@
 # script-termux-auto-visitor
-more info in neoinfo.site
+more info in https://neoinfo.site
