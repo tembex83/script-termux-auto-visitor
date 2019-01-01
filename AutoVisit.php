@@ -20,7 +20,7 @@ Feature :
 *Proxy : IP:PORT | Misalkan : 127.0.0.1:80 | atau Kosongi aja! \e[0m
 \e[1;35m======================================================================\e[0m\n";
 print $banner;
-$authorceo = 'IDSYSTEM404';
+$authorceo = 'neoinfo.site';
 echo "\nURL 		: ";
 $url = trim(fgets(STDIN, 1024)); /** MANUAL URL $url = 'URL or Target'; **/
 echo "\nJumlah 		: ";
